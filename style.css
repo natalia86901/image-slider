@@ -1,0 +1,18 @@
+body {
+    background-color:#39a9cb;
+}
+
+#container { 
+    display: flex;
+    justify-content: center; 
+}
+
+#pictures {
+    width: 500px;
+}
+
+.btn {
+    background-color:#ffeda3; ;
+    font-size:large;
+    border: none;
+}
